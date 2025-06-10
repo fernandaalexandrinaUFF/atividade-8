@@ -1,5 +1,4 @@
 # atividade-8
-<<<<<<< HEAD
 
 # Indicadores Educacionais
 
@@ -83,6 +82,3 @@ E_{j,\text{total}} = E_{j,\text{pública}} + E_{j,\text{privada}}
 - `nj`: número total de escolas no município *j*
 
 ---
-=======
-Arquivos da atividade 8 referente a criação de repositório no Github
->>>>>>> 50c188efeb06c10d16bcb971f8bfeba6b66cca8f
